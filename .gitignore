@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+**/node_modules/
+backend/vendor/
+
+# Zip & temporary files
+*.zip
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
